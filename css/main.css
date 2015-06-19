@@ -306,3 +306,10 @@ textarea {
         page-break-after: avoid;
     }
 }
+<<<<<<< HEAD
+=======
+
+.cell {
+  cursor: pointer;
+}
+>>>>>>> 0d3c6cde7b01f3e79a981fb3315c560bff34bba8
